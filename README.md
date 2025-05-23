@@ -1,11 +1,13 @@
-En este proyecto desarrollamos un script en Python para automatizar la búsqueda, filtrado y selección de información relevante sobre clientes y productos. El objetivo principal fue procesar más de 300 archivos y extraer datos clave de contacto, organizándolos en un único archivo .txt.
+En este proyecto creamos un script en Python que nos ayuda a buscar, filtrar y seleccionar información importante sobre clientes y productos de forma automática. La idea principal fue poder procesar más de 300 archivos y sacar los datos de contacto más relevantes, todo organizado en un solo archivo .txt.
 
-Este archivo consolidado servirá como base de conocimiento para el entrenamiento de un chatbot, facilitando respuestas precisas y personalizadas.
+Este archivo consolidado va a ser la base para entrenar un chatbot, para que pueda responder de manera precisa y personalizada.
 
-Funcionalidades principales: Lectura automática de múltiples archivos.
+Las cosas que hace el script son:
 
-Filtrado de información relevante por cliente.
+Lee varios archivos sin que tengas que hacerlo manualmente.
 
-Organización clara y estructurada de los datos.
+Filtra la información que realmente importa de cada cliente.
 
-Generación de archivo .txt listo para su uso en modelos conversacionales.
+Organiza todo de forma clara y ordenada.
+
+Y finalmente genera un archivo .txt listo para usar en modelos de conversación.
